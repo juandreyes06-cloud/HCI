@@ -47,8 +47,8 @@ public:
 
 # CAPTURAS DE PANTALLA DE LA EJECUCION
 
-<img width="1285" height="789" alt="image" src="https://github.com/user-attachments/assets/0003094b-bc79-41f0-bdbe-20f169e46584" />
-<img width="1284" height="785" alt="image" src="https://github.com/user-attachments/assets/e3130030-fada-4beb-8790-fc62e64a3510" />
-<img width="1286" height="787" alt="image" src="https://github.com/user-attachments/assets/9d30ba68-fdb2-49f3-beab-b021c6e636a3" />
-<img width="1281" height="785" alt="image" src="https://github.com/user-attachments/assets/310b91fd-2f85-415f-b2c5-6948e6bc3be6" />
-<img width="1281" height="786" alt="image" src="https://github.com/user-attachments/assets/4df713b1-9ae4-459a-9419-0b620748872c" />
+<img width="1284" height="785" alt="Screenshot 2026-05-18 212054" src="https://github.com/user-attachments/assets/057f09c4-c592-4407-83be-1f3f20e6dd3a" />
+<img width="1286" height="787" alt="Screenshot 2026-05-18 212109" src="https://github.com/user-attachments/assets/7302055a-74e6-4c7b-98c8-0c774eaa3ffa" />
+<img width="1281" height="785" alt="Screenshot 2026-05-18 212140" src="https://github.com/user-attachments/assets/bac5a578-2b2b-4d97-83ac-b4e346901529" />
+<img width="1281" height="786" alt="Screenshot 2026-05-18 212152" src="https://github.com/user-attachments/assets/8280f1fb-8f0b-4c06-bcfc-e0071cf2793e" />
+<img width="1285" height="789" alt="Screenshot 2026-05-18 212024" src="https://github.com/user-attachments/assets/6d098c97-ab5d-4dc7-863e-04626ed62c78" />
