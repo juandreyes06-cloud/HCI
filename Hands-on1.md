@@ -6,7 +6,8 @@ A partir del Modelo Matemático Vectorizado/Matricial, construido en clase, Leas
 - Dado el  Data Set “Least Squared Regressor”, calcular los valores óptimos para los parámetros de un Modelo de Regresión Lineal Múltiple: B_0, B_1 y B_2 (ver sección Data Sets en Google Classroom).
 - Compruebe que los valores óptimos, calculadaos para los parámetros, coinciden con los proporcionados en la sección de Datasets. 
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9939c70c-d86d-4d63-8086-8fd8665bd7d6" />
+<img width="439" height="445" alt="image" src="https://github.com/user-attachments/assets/ea4b9bb4-c1f1-496a-98c9-b31f0f8a657c" />
+
 
 # ORIENTADO A OBJETOS
 
